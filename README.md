@@ -26,5 +26,4 @@ This project is a Power BI dashboard designed to analyze e‑commerce sales perf
 This project demonstrates how business intelligence and visualization can transform raw e‑commerce data into meaningful insights. It is ideal for:
 - Data Analysts: Showcasing portfolio‑ready dashboards
 - Students & Learners: Hands‑on practice with Power BI and DAX
-
-Businesses: Understanding customer preferences and optimizing sales strategies
+- Businesses: Understanding customer preferences and optimizing sales strategies
