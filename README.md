@@ -29,4 +29,4 @@ This project demonstrates how business intelligence and visualization can transf
 - Businesses: Understanding customer preferences and optimizing sales strategies
 
 📷 ScreenShot of Dashboard - 
-https://github.com/Utkarshk11/PowerBI_Ecommerce_Sales_Dashboard/blob/main/PROJECT.1_page-0001.jpg
+https://github.com/Utkarshk11/PowerBI_Ecommerce_Sales_Dashboard/blob/main/PROJECT.1_page-0001.png
