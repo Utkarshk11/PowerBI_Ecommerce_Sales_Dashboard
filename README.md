@@ -1,4 +1,4 @@
-🛒 Utkarsh E‑Commerce Sales Dashboard
+# 🛒 Utkarsh E‑Commerce Sales Dashboard
 
 📌 Project Overview -
 This project is a Power BI dashboard designed to analyze e‑commerce sales performance across states, categories, customers, and payment modes. It provides actionable insights into revenue, profit, customer behavior, and product trends, enabling data‑driven decision making.
